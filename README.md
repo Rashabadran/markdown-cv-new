@@ -28,6 +28,7 @@ Extremely motivated to constantly develop my skills and grow professionally. </p
 <i>Computer and Communication Engineering with Honors</i>
 <p>Beirut International University</p>
 </section>
+<hr>
 <h3>Wrok Experience</h3>
 
 <h4>Math and Science Coordinator - Tutor 0ctober 2021 - 2022</h4>
