@@ -5,10 +5,10 @@
 
 <h3>Info</h3>
 <ul>
-<li>Phone number  :    +96176024840</li>
-<li>Email address :   badranrasha685@gmail.com</li>
-  <li>Address       :   <a href="mailto:badranrasha685@gmail.com">badranrasha685@gmail.com</a></li>
-<li>Nationality   :   Lebanese</li>
+  <li><strong>Phone number</strong>:    +96176024840</li>
+<li><strong>Email address</strong> :   badranrasha685@gmail.com</li>
+  <li><strong>Address </strong>    :   <a href="mailto:badranrasha685@gmail.com">badranrasha685@gmail.com</a></li>
+  <li><strong>Nationality</strong> :   Lebanese</li>
 </ul>
 <hr>
 <section>
