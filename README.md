@@ -7,7 +7,7 @@
 <ul>
 <li>Phone number  :    +96176024840</li>
 <li>Email address :   badranrasha685@gmail.com</li>
-<li>Address       :   Bchamoun-Alwadi Street</li>
+  <li>Address       :   <a href="mailto:badranrasha685@gmail.com">badranrasha685@gmail.com</a></li>
 <li>Nationality   :   Lebanese</li>
 </ul>
 <hr>
