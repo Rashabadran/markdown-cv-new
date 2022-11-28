@@ -9,6 +9,7 @@
 <li><strong>Email address</strong> :   badranrasha685@gmail.com</li>
   <li><strong>Address </strong>    :   <a href="mailto:badranrasha685@gmail.com">badranrasha685@gmail.com</a></li>
   <li><strong>Nationality</strong> :   Lebanese</li>
+  <li><strong>Date of Birth</strong> : 18-6-1997</li>
 </ul>
 <hr>
 <section>
